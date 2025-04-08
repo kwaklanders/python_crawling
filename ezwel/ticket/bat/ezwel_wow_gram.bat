@@ -1,0 +1,1 @@
+python C:\new_python\trunk\ezwel\ticket\ezwel_wow_graminside.py 0

@@ -1,0 +1,1 @@
+python C:\new_python\trunk\ezwel\ticket\ezwel_mall_total.py 1
