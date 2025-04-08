@@ -1,0 +1,1 @@
+python C:\new_python\trunk\goodchoice\ticket\collect\goodchoice_total.py 0

@@ -1,0 +1,1 @@
+python C:\new_python\trunk\goodchoice\ticket\use\goodchoice_use_total.py 0
