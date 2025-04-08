@@ -1,0 +1,1 @@
+python C:\new_python\trunk\naver\ticket\use\naver_c_use.py 0

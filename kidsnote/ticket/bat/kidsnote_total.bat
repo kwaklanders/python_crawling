@@ -1,0 +1,1 @@
+python C:\new_python\trunk\kidsnote\ticket\kidsnote_total.py 0

@@ -1,0 +1,1 @@
+python C:\python_project\trunk\channel\c_naver\naver_booking_auto_cancel.py 1

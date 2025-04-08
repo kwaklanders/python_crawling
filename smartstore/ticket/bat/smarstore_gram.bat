@@ -1,0 +1,1 @@
+python C:\new_python\trunk\smartstore\ticket\smartstore_gram_collect.py 0

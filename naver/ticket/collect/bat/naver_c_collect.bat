@@ -1,0 +1,1 @@
+python C:\new_python\trunk\naver\ticket\collect\naver_collect_ticket.py 0

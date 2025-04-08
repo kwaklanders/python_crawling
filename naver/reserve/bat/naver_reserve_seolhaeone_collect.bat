@@ -1,0 +1,1 @@
+python C:\new_python\trunk\naver\reserve\naver_reserve_seolhaeone_collect.py 0
