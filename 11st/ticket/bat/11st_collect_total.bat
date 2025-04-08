@@ -1,0 +1,1 @@
+python C:\new_python\trunk\11st\ticket\11st_total.py 0
